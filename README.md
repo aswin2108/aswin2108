@@ -18,7 +18,7 @@ https://i.gifer.com/YxA3.gif
     <img align="right" src="https://github.com/aswin2108/aswin2108/blob/main/Assets/YxA3.gif" width="300px">
   </div>
  
- * ✨ Hai, I'm Aswin, a software engineer and technical writer from India </li>
+ * ✨ Hai, I'm Aswin, a software engineer from India </li>
  * ❤️ I love to bring new ideas to life.</li>
  * 💼 I am a final year student at VIT </li>
  * 🌱 I am currently enhancing my web dev and DSA skills </li>
