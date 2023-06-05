@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <img src=""> Hello World <img src=""> Welcome to my GitHub Profile <img src="">
+### <img src="https://github.com/aswin2108/aswin2108/blob/main/Assets/Hi.gif"> Hello World <img src="https://github.com/aswin2108/aswin2108/blob/main/Assets/Earth.gif"> Welcome to my GitHub Profile <img src="https://github.com/aswin2108/aswin2108/blob/main/Assets/NIbp.gif">
 
 <!--
 **aswin2108/aswin2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
