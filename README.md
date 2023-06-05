@@ -44,6 +44,8 @@ https://i.gifer.com/YxA3.gif
     </a>
 </p>
    </div>
+   
+   ![Snake animation](https://github.com/aswin2108/aswin2108/blob/output/github-contribution-grid-snake.svg)
 
 ## ❤ Views and Followers
 <a href="https://github.com/aswin2108/github-profile-views-counter">
