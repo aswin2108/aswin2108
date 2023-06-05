@@ -15,7 +15,7 @@ https://i.gifer.com/YxA3.gif
 - ⚡ Fun fact: ...
 -->
    <div>
-    <img align="right" src="https://github.com/aswin2108/aswin2108/blob/main/Assets/Hi.gif">
+    <img align="right" src="https://github.com/aswin2108/aswin2108/blob/main/Assets/YxA3.gif">
   </div>
  
  * ✨ Hai, I'm Aswin, a software engineer and technical writer from India </li>
@@ -24,7 +24,6 @@ https://i.gifer.com/YxA3.gif
  * 🌱 I am currently enhancing my web dev and DSA skills </li>
  * 📫 How to Reach me, aswins2108@gmail.com </li>
  * ⚒ These are some of the [articles](https://iq.opengenus.org/author/aswin-shailajan/) I wrote. </li>
-
 
 <br><br>
 
