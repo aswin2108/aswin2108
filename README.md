@@ -22,7 +22,7 @@ https://i.gifer.com/YxA3.gif
  * ❤️ I love to bring new ideas to life.</li>
  * 💼 I am a final year student at VIT </li>
  * 🌱 I am currently enhancing my web dev and DSA skills </li>
- * 🧐 Take a pause at my portfolio website: In progress
+ * 🧐 Take a pause at my [portfolio website](https://aswin2108.github.io/aswin-shailajan-portfolio/)
  * 📫 How to Reach me, aswins2108@gmail.com </li>
  * ⚒ These are some of the [articles](https://iq.opengenus.org/author/aswin-shailajan/) I wrote. 
  * A [book](https://www.amazon.com/Master-Programming-Practical-Projects-mastery/dp/B0BVSXHK9Z) where I have contributed to.
