@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="02 — the route">
+  <rect width="1200" height="400" fill="#ffffff"/>
+  <text x="24" y="44" font-family="ui-monospace, SFMono-Regular, monospace" font-size="15" font-weight="600" letter-spacing="6" fill="#0d1117">02 — THE ROUTE</text>
+  <line x1="24" y1="60" x2="1176" y2="60" stroke="#0d1117" stroke-width="1" stroke-opacity="0.15"/>
+
+  <line x1="130" y1="115" x2="130" y2="355" stroke="#8b949e" stroke-width="1" stroke-dasharray="2 4"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, monospace">
+    <text x="40" y="120" font-size="14" font-weight="600" fill="#0d1117">2024</text>
+    <circle cx="130" cy="115" r="3.5" fill="#0d1117"/>
+    <text x="150" y="120" font-size="14" fill="#0d1117">software development engineer  ·  chubb</text>
+    <text x="150" y="140" font-size="12" fill="#8b949e">full-time  ·  c# / .net  ·  duck creek platform  ·  workflow automation</text>
+
+    <text x="40" y="185" font-size="14" font-weight="600" fill="#0d1117">2024</text>
+    <circle cx="130" cy="180" r="3.5" fill="#0d1117"/>
+    <text x="150" y="185" font-size="14" fill="#0d1117">btech, computer science  ·  vit  ·  graduated</text>
+
+    <text x="40" y="235" font-size="14" font-weight="600" fill="#0d1117">2023</text>
+    <circle cx="130" cy="230" r="3.5" fill="#0d1117"/>
+    <text x="150" y="235" font-size="14" fill="#0d1117">sde intern  ·  chubb   //   software intern  ·  opengenus</text>
+    <text x="150" y="255" font-size="12" fill="#8b949e">top 1% intern  ·  15k+ article views  ·  c++ developer utilities</text>
+
+    <text x="40" y="300" font-size="14" font-weight="600" fill="#0d1117">2023</text>
+    <circle cx="130" cy="295" r="3.5" fill="#0d1117"/>
+    <text x="150" y="300" font-size="14" fill="#0d1117">contributed to a book on programming mastery</text>
+
+    <text x="40" y="360" font-size="14" font-weight="600" fill="#0d1117">2020</text>
+    <circle cx="130" cy="355" r="3.5" fill="#0d1117"/>
+    <text x="150" y="360" font-size="14" fill="#0d1117">started at vit</text>
+  </g>
+</svg>

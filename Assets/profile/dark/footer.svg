@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="footer">
+  <rect width="1200" height="120" fill="#0d1117"/>
+  <line x1="24" y1="30" x2="1176" y2="30" stroke="#e6edf3" stroke-width="1" stroke-opacity="0.15"/>
+  <text x="600" y="66" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12" letter-spacing="6" fill="#e6edf3">CURRENTLY SHIPPING   ·   ALWAYS BUILDING</text>
+  <text x="600" y="94" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, monospace" font-size="11" letter-spacing="1" fill="#8b949e" font-style="italic">reach out  ·  aswins2108@gmail.com</text>
+</svg>
